@@ -11,9 +11,9 @@ class hockersmith:
         self.current_role = "CapitalPipeline Data Technician"
 
     def usr(self):
-        print("Hello! I am a cybersecurity student that focuses on the cyber world of pentesting!")
+        print("Hello! I am an aspiring cybersecurity student with a passion for programming!")
 
-me = hacktivist()
+me = hockersmith()
 me.usr()
 ```
 
