@@ -21,5 +21,4 @@ me.usr()
 - Python, JavaScript, HTML, CSS
 
 ### Projects👁️
-- [IcePick](https://github.com/byestumpy/IcePick)
-- [DiscordGPT](https://github.com/byestumpy/DiscordGPT)
+- 
