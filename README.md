@@ -8,7 +8,7 @@ class hockersmith:
         self.name = "Johnathan"
         self.role = "CyberSecurity Student"
         self.language_spoken = "en_US"]
-        self.current_role = "CapitalPipeline - IT Infrastructure Specialist"
+        self.current_role = "CapitalPipeline - IT Infrastructure Engineer"
 
     def usr(self):
         print("Hello! I am an aspiring cybersecurity student with a passion for programming!")
