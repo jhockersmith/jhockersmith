@@ -7,7 +7,7 @@ class hockersmith:
     def __init__(self):
         self.name = "Johnathan"
         self.role = "CyberSecurity Student"
-        self.language_spoken = "en_US"]
+        self.language_spoken = "en_US"
         self.current_role = "CapitalPipeline - IT Infrastructure Engineer"
 
     def usr(self):
