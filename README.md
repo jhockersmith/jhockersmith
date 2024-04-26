@@ -18,8 +18,9 @@ me.usr()
 ```
 
 ### Skills👨‍💻
-- Python, JavaScript, HTML, CSS
+- Python, Java, SQL, WordPress, Front-end
 
 ### Projects👁️
 - [Discord-X-Gemini](https://github.com/jhockersmith/Discord-Gemini-AI) - A Gemini AI language project hosted within a Discord bot environment.
 - [GPT-Jarvis](https://github.com/jhockersmith/GPT-Jarvis) - A real-life JARVIS using the OpenAI Whisper, Audio, and GPT 3.5 Turbo APIs
+- [EntropicHashGeneration](https://github.com/jhockersmith/EntropicHashGeneration) - Develop robust cryptographic hash functions by analyzing the randomness in natural phenomena.
