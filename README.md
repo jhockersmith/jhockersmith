@@ -18,7 +18,7 @@ me.usr()
 ```
 
 ### Skills👨‍💻
-- Python, Java, SQL, WordPress, Front-end
+- Python, Java, SQL, Node.js, Bash
 
 ### Projects👁️
 - [Discord-X-Gemini](https://github.com/jhockersmith/Discord-Gemini-AI) - A Gemini AI language project hosted within a Discord bot environment.
